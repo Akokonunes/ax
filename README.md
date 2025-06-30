@@ -127,6 +127,9 @@ For Linux systems you will also need to install the newest versions of all packa
 ```
 bash <(curl -s https://raw.githubusercontent.com/attacksurge/ax/master/interact/axiom-configure) --run
 ```
+```
+bash <(curl -s https://raw.githubusercontent.com/Akokonunes/ax/refs/heads/master/interact/axiom-configure) --run
+```
 
 If you have any problems with this installer, or if using an unsupported OS please refer to [Installation](https://ax-framework.gitbook.io/wiki/overview/installation-guide#operating-systems-supported).
 
