@@ -192,7 +192,7 @@
         "/bin/su -l op -c '/usr/local/go/bin/go install github.com/tomnomnom/meg@latest'",
 
         "echo 'Installing naabu'",
-        "/bin/su -l op -c 'GO111MODULE=on /usr/local/go/bin/go install github.com/projectdiscovery/naabu/v2/cmd/naabu@2.3.2'",
+        "/bin/su -l op -c 'GO111MODULE=on /usr/local/go/bin/go install github.com/projectdiscovery/naabu/v2/cmd/naabu@v2.3.2'",
 
         "echo 'Installing nmap'",
 	"sudo apt-get -qy --no-install-recommends install alien",
